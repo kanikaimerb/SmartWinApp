@@ -1,4 +1,4 @@
-# SmartWin App
+# 🛵 SmartWin App
 
 > A Real-World Service Quality & Safety Feedback System for Motorcycle Taxi Services in Bangkok
 
@@ -74,7 +74,7 @@ The dual-application approach addresses a critical principle: **accountability a
 - Thai language support for local users
 - Quick feedback submission (minimal required fields)
 
-## Risk Assessment & Security Considerations
+## 📄 Risk Assessment & Security Considerations
 
 **⚠️ Important Notice**
 
@@ -112,7 +112,7 @@ This project is intentionally maintaining transparency about its limitations. Th
 3. **Responsible Deployment**: Stakeholders understand constraints and risks
 4. **Iterative Security**: Planned improvements address identified gaps
 
-## Tech Stack
+## 💻 Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
